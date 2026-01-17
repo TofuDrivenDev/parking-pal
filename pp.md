@@ -1,3 +1,5 @@
+# Parking Pal: Ticket Radar
+
 **Privacy Policy**
 
 This privacy policy is applicable to the Parking Pal app (hereinafter referred to as "Application") for mobile devices, which was developed by CodeFeet (hereinafter referred to as "Service Provider") as a a Freemium service. This service is provided "AS IS".
